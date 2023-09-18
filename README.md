@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+![Screenshot](https://github.com/MohdShuvo/module_6_assignment/blob/master/1.png)
+
+![Screenshot](https://github.com/MohdShuvo/module_6_assignment/blob/master/2.png)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
